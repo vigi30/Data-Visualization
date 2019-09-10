@@ -1,0 +1,1149 @@
+[
+    {
+        "name": "MAG.papers.2155893237",
+        "info": {
+            "DisplayName": "Caffe_Convolutional_Architecture_For_Fast_Feature_Embedding",
+            "year": 2014,
+            "CC": 6924,
+            "rank": 11
+        },
+        "imports": [
+            "MAG.authors.662858474",
+            "MAG.affiliations.95457486",
+            "MAG.authors.668812493",
+            "MAG.authors.2102002796",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963",
+            "MAG.keywords.2776159882",
+            "MAG.conferences.1135237122"
+        ]
+    },
+    {
+        "name": "MAG.papers.1836465849",
+        "info": {
+            "DisplayName": "Batch_Normalization_Accelerating_Deep_Network_Training_By_Reducing_Internal_Covariate_Shift",
+            "year": 2015,
+            "CC": 6915,
+            "rank": 12
+        },
+        "imports": [
+            "MAG.authors.331124168",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.2272624714",
+            "MAG.keywords.2778149865",
+            "MAG.keywords.2944601119",
+            "MAG.conferences.1180662882"
+        ]
+    },
+    {
+        "name": "MAG.papers.1614298861",
+        "info": {
+            "DisplayName": "Efficient_Estimation_Of_Word_Representations_In_Vector_Space",
+            "year": 2013,
+            "CC": 6309,
+            "rank": 13
+        },
+        "imports": [
+            "MAG.authors.292626543",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.2107276858",
+            "MAG.authors.2146330397",
+            "MAG.authors.2429370538",
+            "MAG.conferences.2584161585"
+        ]
+    },
+    {
+        "name": "MAG.papers.1903029394",
+        "info": {
+            "DisplayName": "Fully_Convolutional_Networks_For_Semantic_Segmentation",
+            "year": 2015,
+            "CC": 5800,
+            "rank": 14
+        },
+        "imports": [
+            "MAG.authors.662858474",
+            "MAG.affiliations.95457486",
+            "MAG.authors.2106816141",
+            "MAG.authors.2174985400",
+            "MAG.conferences.1158167855"
+        ]
+    },
+    {
+        "name": "MAG.papers.2102605133",
+        "info": {
+            "DisplayName": "Rich_Feature_Hierarchies_For_Accurate_Object_Detection_And_Semantic_Segmentation",
+            "year": 2014,
+            "CC": 5754,
+            "rank": 15
+        },
+        "imports": [
+            "MAG.authors.2133088636",
+            "MAG.affiliations.95457486",
+            "MAG.authors.2136556746",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963",
+            "MAG.conferences.1158167855"
+        ]
+    },
+    {
+        "name": "MAG.papers.2168356304",
+        "info": {
+            "DisplayName": "Object_Detection_With_Discriminatively_Trained_Part_Based_Models",
+            "year": 2010,
+            "CC": 5741,
+            "rank": 16
+        },
+        "imports": [
+            "MAG.authors.155174508",
+            "MAG.affiliations.40347166",
+            "MAG.authors.1603383808",
+            "MAG.affiliations.204250578",
+            "MAG.authors.2140912314",
+            "MAG.affiliations.1293612202",
+            "MAG.authors.2473549963",
+            "MAG.keywords.182521987",
+            "MAG.journals.199944782"
+        ]
+    },
+    {
+        "name": "MAG.papers.2250539671",
+        "info": {
+            "DisplayName": "Glove_Global_Vectors_For_Word_Representation",
+            "year": 2014,
+            "CC": 4873,
+            "rank": 17
+        },
+        "imports": [
+            "MAG.authors.1964982643",
+            "MAG.affiliations.188538660",
+            "MAG.authors.2149153931",
+            "MAG.affiliations.97018004",
+            "MAG.authors.2517910439",
+            "MAG.conferences.1192655580"
+        ]
+    },
+    {
+        "name": "MAG.papers.2099471712",
+        "info": {
+            "DisplayName": "Generative_Adversarial_Nets",
+            "year": 2014,
+            "CC": 4621,
+            "rank": 18
+        },
+        "imports": [
+            "MAG.authors.15795219",
+            "MAG.affiliations.70931966",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2175160039",
+            "MAG.affiliations.68891433",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601",
+            "MAG.conferences.1127325140"
+        ]
+    },
+    {
+        "name": "MAG.papers.2133564696",
+        "info": {
+            "DisplayName": "Neural_Machine_Translation_By_Jointly_Learning_To_Align_And_Translate",
+            "year": 2015,
+            "CC": 4471,
+            "rank": 19
+        },
+        "imports": [
+            "MAG.authors.161269817",
+            "MAG.affiliations.70931966",
+            "MAG.authors.2462121670",
+            "MAG.authors.2509101809",
+            "MAG.affiliations.193619901",
+            "MAG.keywords.51802942",
+            "MAG.keywords.130597682",
+            "MAG.conferences.2584161585"
+        ]
+    },
+    {
+        "name": "MAG.papers.2031489346",
+        "info": {
+            "DisplayName": "The_Pascal_Visual_Object_Classes_Voc_Challenge",
+            "year": 2010,
+            "CC": 4206,
+            "rank": 20
+        },
+        "imports": [
+            "MAG.authors.1970013226",
+            "MAG.affiliations.130828816",
+            "MAG.authors.2103920730",
+            "MAG.affiliations.99464096",
+            "MAG.authors.2114683746",
+            "MAG.affiliations.98677209",
+            "MAG.authors.2140907548",
+            "MAG.affiliations.1290206253",
+            "MAG.authors.2469405535",
+            "MAG.affiliations.40120149",
+            "MAG.journals.25538012"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.95457486",
+        "info": {
+            "DisplayName": "University_of_California,_Berkeley",
+            "CC": 9781151
+        },
+        "imports": [
+            "MAG.authors.662858474",
+            "MAG.papers.2155893237",
+            "MAG.authors.668812493",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963",
+            "MAG.papers.1903029394",
+            "MAG.papers.2102605133",
+            "MAG.authors.2136556746"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.1291425158",
+        "info": {
+            "DisplayName": "Google",
+            "CC": 658485
+        },
+        "imports": [
+            "MAG.authors.2102002796",
+            "MAG.papers.2155893237",
+            "MAG.authors.331124168",
+            "MAG.papers.1836465849",
+            "MAG.authors.2272624714",
+            "MAG.authors.292626543",
+            "MAG.papers.1614298861",
+            "MAG.authors.2107276858",
+            "MAG.authors.2146330397",
+            "MAG.authors.2429370538"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.95457486",
+        "info": {
+            "DisplayName": "University_of_California,_Berkeley",
+            "CC": 9781151
+        },
+        "imports": [
+            "MAG.authors.2106816141",
+            "MAG.papers.1903029394",
+            "MAG.authors.2174985400",
+            "MAG.authors.2133088636",
+            "MAG.papers.2102605133",
+            "MAG.authors.2136556746",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.95457486",
+        "info": {
+            "DisplayName": "University_of_California,_Berkeley",
+            "CC": 9781151
+        },
+        "imports": [
+            "MAG.authors.2174985400",
+            "MAG.papers.2102605133",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.40347166",
+        "info": {
+            "DisplayName": "University_of_Chicago",
+            "CC": 5742751
+        },
+        "imports": [
+            "MAG.authors.155174508",
+            "MAG.papers.2168356304",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.204250578",
+        "info": {
+            "DisplayName": "University_of_California,_Irvine",
+            "CC": 3021968
+        },
+        "imports": [
+            "MAG.authors.1603383808",
+            "MAG.papers.2168356304"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.1293612202",
+        "info": {
+            "DisplayName": "Toyota",
+            "CC": 531714
+        },
+        "imports": [
+            "MAG.authors.2140912314",
+            "MAG.papers.2168356304"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.188538660",
+        "info": {
+            "DisplayName": "University_of_Colorado_Boulder",
+            "CC": 2927820
+        },
+        "imports": [
+            "MAG.authors.1964982643",
+            "MAG.papers.2250539671"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.97018004",
+        "info": {
+            "DisplayName": "Stanford_University",
+            "CC": 12205396
+        },
+        "imports": [
+            "MAG.authors.2149153931",
+            "MAG.papers.2250539671",
+            "MAG.authors.2517910439"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.70931966",
+        "info": {
+            "DisplayName": "Université_de_Montréal",
+            "CC": 2036959
+        },
+        "imports": [
+            "MAG.authors.15795219",
+            "MAG.papers.2099471712",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601",
+            "MAG.papers.2133564696",
+            "MAG.authors.2462121670"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.68891433",
+        "info": {
+            "DisplayName": "Indian_Institute_of_Technology_Delhi",
+            "CC": 241870
+        },
+        "imports": [
+            "MAG.authors.2175160039",
+            "MAG.papers.2099471712"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.193619901",
+        "info": {
+            "DisplayName": "Jacobs_University_Bremen",
+            "CC": 100001
+        },
+        "imports": [
+            "MAG.authors.2509101809",
+            "MAG.papers.2133564696"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.130828816",
+        "info": {
+            "DisplayName": "University_of_Leeds",
+            "CC": 2035919
+        },
+        "imports": [
+            "MAG.authors.1970013226",
+            "MAG.papers.2031489346"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.99464096",
+        "info": {
+            "DisplayName": "Katholieke_Universiteit_Leuven",
+            "CC": 3336152
+        },
+        "imports": [
+            "MAG.authors.2103920730",
+            "MAG.papers.2031489346"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.98677209",
+        "info": {
+            "DisplayName": "University_of_Edinburgh",
+            "CC": 3722019
+        },
+        "imports": [
+            "MAG.authors.2114683746",
+            "MAG.papers.2031489346"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.1290206253",
+        "info": {
+            "DisplayName": "Microsoft",
+            "CC": 2561483
+        },
+        "imports": [
+            "MAG.authors.2140907548",
+            "MAG.papers.2031489346"
+        ]
+    },
+    {
+        "name": "MAG.affiliations.40120149",
+        "info": {
+            "DisplayName": "University_of_Oxford",
+            "CC": 6448621
+        },
+        "imports": [
+            "MAG.authors.2469405535",
+            "MAG.papers.2031489346"
+        ]
+    },
+    {
+        "name": "MAG.journals.199944782",
+        "info": {
+            "DisplayName": "pami",
+            "fullName": "IEEE_Transactions_on_Pattern_Analysis_and_Machine_Intelligence",
+            "CC": 983245
+        },
+        "imports": [
+            "MAG.papers.2168356304"
+        ]
+    },
+    {
+        "name": "MAG.journals.25538012",
+        "info": {
+            "DisplayName": "ijcv",
+            "fullName": "International_Journal_of_Computer_Vision",
+            "CC": 301753
+        },
+        "imports": [
+            "MAG.papers.2031489346"
+        ]
+    },
+    {
+        "name": "MAG.authors.662858474",
+        "info": {
+            "DisplayName": "Evan_Shelhamer",
+            "CC": 13855
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.95457486",
+            "MAG.authors.668812493",
+            "MAG.authors.2102002796",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963",
+            "MAG.papers.1903029394"
+        ]
+    },
+    {
+        "name": "MAG.authors.668812493",
+        "info": {
+            "DisplayName": "Sergey_Karayev",
+            "CC": 7553
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.95457486",
+            "MAG.authors.662858474",
+            "MAG.authors.2102002796",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.authors.2102002796",
+        "info": {
+            "DisplayName": "Yangqing_Jia",
+            "CC": 21400
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.662858474",
+            "MAG.authors.668812493",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.authors.2106816141",
+        "info": {
+            "DisplayName": "Jonathan_Long",
+            "CC": 13801
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.95457486",
+            "MAG.authors.662858474",
+            "MAG.authors.668812493",
+            "MAG.authors.2102002796",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963",
+            "MAG.papers.1903029394"
+        ]
+    },
+    {
+        "name": "MAG.authors.2133088636",
+        "info": {
+            "DisplayName": "Jeff_Donahue",
+            "CC": 20210
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.95457486",
+            "MAG.authors.662858474",
+            "MAG.authors.668812493",
+            "MAG.authors.2102002796",
+            "MAG.authors.2106816141",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963",
+            "MAG.papers.2102605133",
+            "MAG.authors.2136556746"
+        ]
+    },
+    {
+        "name": "MAG.authors.2171506303",
+        "info": {
+            "DisplayName": "Sergio_Guadarrama",
+            "CC": 10269
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.95457486",
+            "MAG.authors.662858474",
+            "MAG.authors.668812493",
+            "MAG.authors.2102002796",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.authors.2174985400",
+        "info": {
+            "DisplayName": "Trevor_Darrell",
+            "CC": 56557
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.95457486",
+            "MAG.authors.662858474",
+            "MAG.authors.668812493",
+            "MAG.authors.2102002796",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2473549963",
+            "MAG.papers.1903029394",
+            "MAG.papers.2102605133",
+            "MAG.authors.2136556746"
+        ]
+    },
+    {
+        "name": "MAG.authors.2473549963",
+        "info": {
+            "DisplayName": "Ross_B._Girshick",
+            "CC": 42176
+        },
+        "imports": [
+            "MAG.papers.2155893237",
+            "MAG.affiliations.95457486",
+            "MAG.authors.662858474",
+            "MAG.authors.668812493",
+            "MAG.authors.2102002796",
+            "MAG.authors.2106816141",
+            "MAG.authors.2133088636",
+            "MAG.authors.2171506303",
+            "MAG.authors.2174985400",
+            "MAG.papers.2102605133",
+            "MAG.authors.2136556746",
+            "MAG.papers.2168356304",
+            "MAG.affiliations.40347166",
+            "MAG.authors.155174508",
+            "MAG.authors.1603383808",
+            "MAG.authors.2140912314"
+        ]
+    },
+    {
+        "name": "MAG.authors.331124168",
+        "info": {
+            "DisplayName": "Christian_Szegedy",
+            "CC": 26538
+        },
+        "imports": [
+            "MAG.papers.1836465849",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.2272624714"
+        ]
+    },
+    {
+        "name": "MAG.authors.2272624714",
+        "info": {
+            "DisplayName": "Sergey_Ioffe",
+            "CC": 12214
+        },
+        "imports": [
+            "MAG.papers.1836465849",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.331124168"
+        ]
+    },
+    {
+        "name": "MAG.authors.292626543",
+        "info": {
+            "DisplayName": "Tomas_Mikolov",
+            "CC": 25315
+        },
+        "imports": [
+            "MAG.papers.1614298861",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.2107276858",
+            "MAG.authors.2146330397",
+            "MAG.authors.2429370538"
+        ]
+    },
+    {
+        "name": "MAG.authors.2107276858",
+        "info": {
+            "DisplayName": "Gregory_S._Corrado",
+            "CC": 17361
+        },
+        "imports": [
+            "MAG.papers.1614298861",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.292626543",
+            "MAG.authors.2146330397",
+            "MAG.authors.2429370538"
+        ]
+    },
+    {
+        "name": "MAG.authors.2146330397",
+        "info": {
+            "DisplayName": "Kai_Chen",
+            "CC": 18054
+        },
+        "imports": [
+            "MAG.papers.1614298861",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.292626543",
+            "MAG.authors.2107276858",
+            "MAG.authors.2429370538"
+        ]
+    },
+    {
+        "name": "MAG.authors.2429370538",
+        "info": {
+            "DisplayName": "Jeffrey_Dean",
+            "CC": 56992
+        },
+        "imports": [
+            "MAG.papers.1614298861",
+            "MAG.affiliations.1291425158",
+            "MAG.authors.292626543",
+            "MAG.authors.2107276858",
+            "MAG.authors.2146330397"
+        ]
+    },
+    {
+        "name": "MAG.authors.2136556746",
+        "info": {
+            "DisplayName": "Jitendra_Malik",
+            "CC": 80544
+        },
+        "imports": [
+            "MAG.papers.2102605133",
+            "MAG.affiliations.95457486",
+            "MAG.authors.2133088636",
+            "MAG.authors.2174985400",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.authors.155174508",
+        "info": {
+            "DisplayName": "Pedro_F._Felzenszwalb",
+            "CC": 18621
+        },
+        "imports": [
+            "MAG.papers.2168356304",
+            "MAG.affiliations.40347166",
+            "MAG.authors.1603383808",
+            "MAG.authors.2140912314",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.authors.1603383808",
+        "info": {
+            "DisplayName": "Deva_Ramanan",
+            "CC": 19843
+        },
+        "imports": [
+            "MAG.papers.2168356304",
+            "MAG.affiliations.204250578",
+            "MAG.authors.155174508",
+            "MAG.authors.2140912314",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.authors.2140912314",
+        "info": {
+            "DisplayName": "David_A._McAllester",
+            "CC": 16774
+        },
+        "imports": [
+            "MAG.papers.2168356304",
+            "MAG.affiliations.1293612202",
+            "MAG.authors.155174508",
+            "MAG.authors.1603383808",
+            "MAG.authors.2473549963"
+        ]
+    },
+    {
+        "name": "MAG.authors.1964982643",
+        "info": {
+            "DisplayName": "Richard_Socher",
+            "CC": 24507
+        },
+        "imports": [
+            "MAG.papers.2250539671",
+            "MAG.affiliations.188538660",
+            "MAG.authors.2149153931",
+            "MAG.authors.2517910439"
+        ]
+    },
+    {
+        "name": "MAG.authors.2149153931",
+        "info": {
+            "DisplayName": "Christopher_D._Manning",
+            "CC": 61566
+        },
+        "imports": [
+            "MAG.papers.2250539671",
+            "MAG.affiliations.97018004",
+            "MAG.authors.1964982643",
+            "MAG.authors.2517910439"
+        ]
+    },
+    {
+        "name": "MAG.authors.2517910439",
+        "info": {
+            "DisplayName": "Jeffrey_Pennington",
+            "CC": 6260
+        },
+        "imports": [
+            "MAG.papers.2250539671",
+            "MAG.affiliations.97018004",
+            "MAG.authors.1964982643",
+            "MAG.authors.2149153931"
+        ]
+    },
+    {
+        "name": "MAG.authors.15795219",
+        "info": {
+            "DisplayName": "David_Warde-Farley",
+            "CC": 8581
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.70931966",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2175160039",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601"
+        ]
+    },
+    {
+        "name": "MAG.authors.161269817",
+        "info": {
+            "DisplayName": "Yoshua_Bengio",
+            "CC": 102900
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.70931966",
+            "MAG.authors.15795219",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2175160039",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601",
+            "MAG.papers.2133564696",
+            "MAG.authors.2462121670",
+            "MAG.authors.2509101809"
+        ]
+    },
+    {
+        "name": "MAG.authors.1822555116",
+        "info": {
+            "DisplayName": "Ian_J._Goodfellow",
+            "CC": 27817
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.70931966",
+            "MAG.authors.15795219",
+            "MAG.authors.161269817",
+            "MAG.authors.1989717142",
+            "MAG.authors.2175160039",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601"
+        ]
+    },
+    {
+        "name": "MAG.authors.1989717142",
+        "info": {
+            "DisplayName": "Jean_Pouget-Abadie",
+            "CC": 4639
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.70931966",
+            "MAG.authors.15795219",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.2175160039",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601"
+        ]
+    },
+    {
+        "name": "MAG.authors.2175160039",
+        "info": {
+            "DisplayName": "Sherjil_Ozair",
+            "CC": 4674
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.68891433",
+            "MAG.authors.15795219",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601"
+        ]
+    },
+    {
+        "name": "MAG.authors.2328522601",
+        "info": {
+            "DisplayName": "Aaron_C._Courville",
+            "CC": 29593
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.70931966",
+            "MAG.authors.15795219",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2175160039",
+            "MAG.authors.2668737056",
+            "MAG.authors.2922759601"
+        ]
+    },
+    {
+        "name": "MAG.authors.2668737056",
+        "info": {
+            "DisplayName": "Mehdi_Mirza",
+            "CC": 9228
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.70931966",
+            "MAG.authors.15795219",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2175160039",
+            "MAG.authors.2328522601",
+            "MAG.authors.2922759601"
+        ]
+    },
+    {
+        "name": "MAG.authors.2922759601",
+        "info": {
+            "DisplayName": "Bing_Xu",
+            "CC": 5778
+        },
+        "imports": [
+            "MAG.papers.2099471712",
+            "MAG.affiliations.70931966",
+            "MAG.authors.15795219",
+            "MAG.authors.161269817",
+            "MAG.authors.1822555116",
+            "MAG.authors.1989717142",
+            "MAG.authors.2175160039",
+            "MAG.authors.2328522601",
+            "MAG.authors.2668737056"
+        ]
+    },
+    {
+        "name": "MAG.authors.2462121670",
+        "info": {
+            "DisplayName": "Kyunghyun_Cho",
+            "CC": 17202
+        },
+        "imports": [
+            "MAG.papers.2133564696",
+            "MAG.affiliations.70931966",
+            "MAG.authors.161269817",
+            "MAG.authors.2509101809"
+        ]
+    },
+    {
+        "name": "MAG.authors.2509101809",
+        "info": {
+            "DisplayName": "Dzmitry_Bahdanau",
+            "CC": 9036
+        },
+        "imports": [
+            "MAG.papers.2133564696",
+            "MAG.affiliations.193619901",
+            "MAG.authors.161269817",
+            "MAG.authors.2462121670"
+        ]
+    },
+    {
+        "name": "MAG.authors.1970013226",
+        "info": {
+            "DisplayName": "Mark_Everingham",
+            "CC": 8241
+        },
+        "imports": [
+            "MAG.papers.2031489346",
+            "MAG.affiliations.130828816",
+            "MAG.authors.2103920730",
+            "MAG.authors.2114683746",
+            "MAG.authors.2140907548",
+            "MAG.authors.2469405535"
+        ]
+    },
+    {
+        "name": "MAG.authors.2103920730",
+        "info": {
+            "DisplayName": "Luc_J._Van_Gool",
+            "CC": 49227
+        },
+        "imports": [
+            "MAG.papers.2031489346",
+            "MAG.affiliations.99464096",
+            "MAG.authors.1970013226",
+            "MAG.authors.2114683746",
+            "MAG.authors.2140907548",
+            "MAG.authors.2469405535"
+        ]
+    },
+    {
+        "name": "MAG.authors.2114683746",
+        "info": {
+            "DisplayName": "Christopher_K._I._Williams",
+            "CC": 22194
+        },
+        "imports": [
+            "MAG.papers.2031489346",
+            "MAG.affiliations.98677209",
+            "MAG.authors.1970013226",
+            "MAG.authors.2103920730",
+            "MAG.authors.2140907548",
+            "MAG.authors.2469405535"
+        ]
+    },
+    {
+        "name": "MAG.authors.2140907548",
+        "info": {
+            "DisplayName": "John_M._Winn",
+            "CC": 12760
+        },
+        "imports": [
+            "MAG.papers.2031489346",
+            "MAG.affiliations.1290206253",
+            "MAG.authors.1970013226",
+            "MAG.authors.2103920730",
+            "MAG.authors.2114683746",
+            "MAG.authors.2469405535"
+        ]
+    },
+    {
+        "name": "MAG.authors.2469405535",
+        "info": {
+            "DisplayName": "Andrew_Zisserman",
+            "CC": 103700
+        },
+        "imports": [
+            "MAG.papers.2031489346",
+            "MAG.affiliations.40120149",
+            "MAG.authors.1970013226",
+            "MAG.authors.2103920730",
+            "MAG.authors.2114683746",
+            "MAG.authors.2140907548"
+        ]
+    },
+    {
+        "name": "MAG.conferences.1135237122",
+        "info": {
+            "DisplayName": "mm",
+            "fullName": "MM:_ACM_Multimedia",
+            "CC": 132707
+        },
+        "imports": [
+            "MAG.papers.2155893237"
+        ]
+    },
+    {
+        "name": "MAG.conferences.1180662882",
+        "info": {
+            "DisplayName": "icml",
+            "fullName": "ICML:_International_Conference_on_Machine_Learning",
+            "CC": 356200
+        },
+        "imports": [
+            "MAG.papers.1836465849"
+        ]
+    },
+    {
+        "name": "MAG.conferences.2584161585",
+        "info": {
+            "DisplayName": "iclr",
+            "fullName": "ICLR:_International_Conference_on_Learning_Representations",
+            "CC": 109465
+        },
+        "imports": [
+            "MAG.papers.1614298861",
+            "MAG.papers.2133564696"
+        ]
+    },
+    {
+        "name": "MAG.conferences.1158167855",
+        "info": {
+            "DisplayName": "cvpr",
+            "fullName": "CVPR:_Computer_Vision_and_Pattern_Recognition",
+            "CC": 897640
+        },
+        "imports": [
+            "MAG.papers.1903029394",
+            "MAG.papers.2102605133"
+        ]
+    },
+    {
+        "name": "MAG.conferences.1192655580",
+        "info": {
+            "DisplayName": "emnlp",
+            "fullName": "EMNLP:_Empirical_Methods_in_Natural_Language_Processing",
+            "CC": 136354
+        },
+        "imports": [
+            "MAG.papers.2250539671"
+        ]
+    },
+    {
+        "name": "MAG.conferences.1127325140",
+        "info": {
+            "DisplayName": "neurips",
+            "fullName": "NeurIPS:_Neural_Information_Processing_Systems",
+            "CC": 458954
+        },
+        "imports": [
+            "MAG.papers.2099471712"
+        ]
+    },
+    {
+        "name": "MAG.keywords.2776159882",
+        "info": {
+            "DisplayName": "theano",
+            "fullName": "Theano",
+            "CC": 77921
+        },
+        "imports": [
+            "MAG.papers.2155893237"
+        ]
+    },
+    {
+        "name": "MAG.keywords.2778149865",
+        "info": {
+            "DisplayName": "vanishing_gradient_problem",
+            "fullName": "Vanishing_gradient_problem",
+            "CC": 71164
+        },
+        "imports": [
+            "MAG.papers.1836465849"
+        ]
+    },
+    {
+        "name": "MAG.keywords.2944601119",
+        "info": {
+            "DisplayName": "residual_neural_network",
+            "fullName": "Residual_neural_network",
+            "CC": 26970
+        },
+        "imports": [
+            "MAG.papers.1836465849"
+        ]
+    },
+    {
+        "name": "MAG.keywords.182521987",
+        "info": {
+            "DisplayName": "viola_jones_object_detection_framework",
+            "fullName": "Viola–Jones_object_detection_framework",
+            "CC": 102978
+        },
+        "imports": [
+            "MAG.papers.2168356304"
+        ]
+    },
+    {
+        "name": "MAG.keywords.51802942",
+        "info": {
+            "DisplayName": "synchronous_context_free_grammar",
+            "fullName": "Synchronous_context-free_grammar",
+            "CC": 46343
+        },
+        "imports": [
+            "MAG.papers.2133564696"
+        ]
+    },
+    {
+        "name": "MAG.keywords.130597682",
+        "info": {
+            "DisplayName": "transfer_based_machine_translation",
+            "fullName": "Transfer-based_machine_translation",
+            "CC": 61005
+        },
+        "imports": [
+            "MAG.papers.2133564696"
+        ]
+    }
+]

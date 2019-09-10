@@ -1,0 +1,199 @@
+.node {
+    font: 9px sans-serif;
+    padding: 50px;
+    margin: 5px
+    }
+    .link {
+    stroke: rgb(163, 159, 159);
+    stroke-opacity: 0.1;
+    fill: none;
+    pointer-events: none;
+    }
+    .d3-tip {
+line-height: 1;
+/* font-size: 11px; */
+font-weight: normal;
+padding: 10px;
+background: #333;
+color: #fff;
+border-radius: 2px;
+pointer-events: none;
+/* left:-38px; */
+
+}
+.d3-tip .moreInfo{
+color:hotpink;
+font-size: 0.8em;
+
+}
+.d3-tip .content{
+  padding: 2px;
+}
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+box-sizing: border-box;
+display: inline;
+font-size: 10px;
+
+line-height: 1;
+color: rgba(0, 0, 0, 0.8);
+position: absolute;
+pointer-events: none;
+}
+
+/* Northward tooltips */
+.d3-tip.n:after {
+content: "\25BC";
+margin: -1px 0 0 0;
+top: 100%;
+left: 10;
+text-align: center;
+}
+
+/* Eastward tooltips */
+.d3-tip.e:after {
+content: "\25C0";
+margin: -4px 0 0 0;
+top: 50%;
+left: -8px;
+}
+
+/* Southward tooltips */
+.d3-tip.s:after {
+content: "\25B2";
+margin: 0 0 1px 0;
+top: -8px;
+left: 0;
+text-align: center;
+}
+
+/* Westward tooltips */
+.d3-tip.w:after {
+content: "\25B6";
+margin: -4px 0 0 -1px;
+top: 50%;
+left: 100%;
+}
+/* .row_divs .canvas .info{
+display:inline-block;
+} */
+
+.containers {
+display: grid;
+grid-template-columns: 2fr 1fr;
+grid-column-gap:10px; /* fraction*/
+justify-items: start;
+grid-template-areas: 
+"graph text1"
+"graph text2"
+}
+
+.canvas{
+    /* position: absolute;    */
+grid-area :graph;
+
+display : grid;
+grid-template-rows: 90% 1fr;
+grid-template-areas: 
+"sub_graph" 
+"buttons"  
+
+}
+.buttons{
+position: absolute;
+grid-area :buttons;
+justify-self: end;
+padding-right: 80px;
+margin: 5px;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:5px;
+left:940px;
+bottom:20px;
+}
+.svg{
+   
+grid-area :sub_graph;
+border: 1px solid black;
+border-radius: 8px;
+/* position:fixed; */
+
+}
+.info{
+grid-area :text1;
+text-align: justify;
+overflow: auto;
+width: auto;
+height: auto;
+margin: 5px;
+padding:5px;
+border: 1px solid black;
+border-radius: 8px;
+align-self: start;
+margin:10px;
+
+}
+.paperAdd{
+grid-area :text2;
+text-align: justify;
+overflow: auto;
+width: auto;
+height: 200px;
+margin:10px;
+padding: 15px;
+border: 1px solid black;
+border-radius: 8px;
+align-self: center;
+position:relative;
+overflow: auto;
+}
+.papersave{
+    display: block;
+    /* border:  solid ; */
+    
+    border-radius: 8px;
+    margin:3px;
+}
+.button {
+background-color:#777;
+border: none;
+color: white;
+padding: 16px 32px;
+text-align: center;
+font-size: 12px;
+margin: 4px 2px;
+opacity: 0.6;
+transition: 0.3s;
+display: inline-block;
+text-decoration: none;
+cursor: pointer;
+}
+
+.button:hover {opacity: 1}
+body{
+    font-family: "Nunito Sans", sans-serif;
+}
+.extraInfo{
+border: 1px solid ;
+border-radius: 8px;
+overflow: auto;
+width:330px;
+height:730px;
+/* height:auto; */
+/* position:fixed; */
+left:1160px;
+/* bottom:90px; */
+
+}
+.effect1{
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+}
+
+
+.papersave:hover { box-shadow: 0 10px 6px -6px #777;
+                                border:1px solid;
+                            padding:2px; 
+                            padding-left:12px;
+                            margin:1px;}
